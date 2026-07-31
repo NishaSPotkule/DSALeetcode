@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0130-surrounded-regions) |
 | [0215-kth-largest-element-in-an-array](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0973-k-closest-points-to-origin) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/NishaSPotkule/DSALeetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [3834-merge-adjacent-equal-elements](https://github.com/NishaSPotkule/DSALeetcode/tree/master/3834-merge-adjacent-equal-elements) |
 ## Depth-First Search
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0973-k-closest-points-to-origin) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/NishaSPotkule/DSALeetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0062-unique-paths) |
+| [0973-k-closest-points-to-origin](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0973-k-closest-points-to-origin) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/NishaSPotkule/DSALeetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Greedy
 |  |
@@ -97,18 +100,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0347-top-k-frequent-elements) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
