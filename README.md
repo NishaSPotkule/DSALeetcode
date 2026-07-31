@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0130-surrounded-regions) |
+| [0215-kth-largest-element-in-an-array](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/NishaSPotkule/DSALeetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [3834-merge-adjacent-equal-elements](https://github.com/NishaSPotkule/DSALeetcode/tree/master/3834-merge-adjacent-equal-elements) |
 ## Depth-First Search
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/NishaSPotkule/DSALeetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
@@ -86,4 +88,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0501-find-mode-in-binary-search-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
