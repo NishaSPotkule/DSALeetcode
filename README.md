@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0031-next-permutation) |
 | [0064-minimum-path-sum](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0130-surrounded-regions) |
 | [0215-kth-largest-element-in-an-array](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -132,5 +133,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0031-next-permutation) |
 | [0141-linked-list-cycle](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
