@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0031-next-permutation) |
 | [0064-minimum-path-sum](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0130-surrounded-regions) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0014-longest-common-prefix) |
 | [0520-detect-capital](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0520-detect-capital) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/NishaSPotkule/DSALeetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/NishaSPotkule/DSALeetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -135,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0031-next-permutation) |
 | [0141-linked-list-cycle](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0141-linked-list-cycle) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
