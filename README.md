@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0496-next-greater-element-i) |
+| [0877-stone-game](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0973-k-closest-points-to-origin) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/NishaSPotkule/DSALeetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [3834-merge-adjacent-equal-elements](https://github.com/NishaSPotkule/DSALeetcode/tree/master/3834-merge-adjacent-equal-elements) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0062-unique-paths) |
+| [0877-stone-game](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/NishaSPotkule/DSALeetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/NishaSPotkule/DSALeetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0064-minimum-path-sum) |
+| [0877-stone-game](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0877-stone-game) |
 ## Combinatorics
 |  |
 | ------- |
@@ -148,4 +151,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0496-next-greater-element-i) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
