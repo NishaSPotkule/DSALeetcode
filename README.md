@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0130-surrounded-regions](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0133-clone-graph) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Breadth-First Search
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0520-detect-capital](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0520-detect-capital) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/NishaSPotkule/DSALeetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/NishaSPotkule/DSALeetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -185,4 +188,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 <!---LeetCode Topics End-->
