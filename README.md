@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0031-next-permutation) |
 | [0049-group-anagrams](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0049-group-anagrams) |
 | [0064-minimum-path-sum](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0130-surrounded-regions) |
 | [0215-kth-largest-element-in-an-array](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0217-contains-duplicate) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0130-surrounded-regions](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0133-clone-graph) |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0130-surrounded-regions) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/NishaSPotkule/DSALeetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 ## String
@@ -46,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0079-word-search) |
 | [0208-implement-trie-prefix-tree](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0520-detect-capital](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0520-detect-capital) |
@@ -203,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0182-duplicate-emails) |
 | [0196-delete-duplicate-emails](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0196-delete-duplicate-emails) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
