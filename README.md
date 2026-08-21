@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0031-next-permutation) |
+| [0036-valid-sudoku](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0049-group-anagrams) |
 | [0064-minimum-path-sum](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0079-word-search) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0036-valid-sudoku) |
 | [0064-minimum-path-sum](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0130-surrounded-regions) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0049-group-anagrams) |
 | [0133-clone-graph](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0141-linked-list-cycle) |
