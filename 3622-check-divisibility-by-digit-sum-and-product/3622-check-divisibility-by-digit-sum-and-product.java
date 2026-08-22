@@ -3,7 +3,7 @@ class Solution {
         int sum=0;
         int num=n;
         int product=1;
-        while(n>0){
+        while(n!=0){
             int d=n%10;
             sum+=d;
             product*=d;
