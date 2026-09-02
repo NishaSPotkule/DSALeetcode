@@ -1,22 +1,24 @@
 class Solution {
     public boolean uniformArray(int[] nums1) {
-        int n=nums1.length;
-        int even=0;
-        int odd=0;
-        for(int i=0;i<nums1.length;i++){
-            if(nums1[i]%2==0){
-                even++;
+    //     int n=nums1.length;
+    //     int even=0;
+    //     int odd=0;
+    //     for(int i=0;i<nums1.length;i++){
+    //         if(nums1[i]%2==0){
+    //             even++;
 
-            }
-            else{
-                odd++;
-            }
+    //         }
+    //         else{
+    //             odd++;
+    //         }
             
-        }
-        if(even==n || odd==n || even+odd==n){
-            return true;
-        }
-        return false;
+    //     }
+    //     if(even==n || odd==n || even+odd==n){
+    //         return true;
+    //     }
+    //     return false;
         
+    // }
+    return true;
     }
 }
