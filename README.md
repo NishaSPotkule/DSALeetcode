@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0496-next-greater-element-i) |
 | [0877-stone-game](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0973-k-closest-points-to-origin) |
+| [2094-finding-3-digit-even-numbers](https://github.com/NishaSPotkule/DSALeetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/NishaSPotkule/DSALeetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/NishaSPotkule/DSALeetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/NishaSPotkule/DSALeetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0973-k-closest-points-to-origin) |
+| [2094-finding-3-digit-even-numbers](https://github.com/NishaSPotkule/DSALeetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/NishaSPotkule/DSALeetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/NishaSPotkule/DSALeetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0496-next-greater-element-i) |
+| [2094-finding-3-digit-even-numbers](https://github.com/NishaSPotkule/DSALeetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/NishaSPotkule/DSALeetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/NishaSPotkule/DSALeetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/NishaSPotkule/DSALeetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/NishaSPotkule/DSALeetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/NishaSPotkule/DSALeetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Design
 |  |
@@ -252,4 +256,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/NishaSPotkule/DSALeetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/NishaSPotkule/DSALeetcode/tree/master/3904-smallest-stable-index-ii) |
+## Recursion
+|  |
+| ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/NishaSPotkule/DSALeetcode/tree/master/2094-finding-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
