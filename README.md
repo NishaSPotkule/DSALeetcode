@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0520-detect-capital](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0520-detect-capital) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/NishaSPotkule/DSALeetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/NishaSPotkule/DSALeetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/NishaSPotkule/DSALeetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/NishaSPotkule/DSALeetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0496-next-greater-element-i) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/NishaSPotkule/DSALeetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3834-merge-adjacent-equal-elements](https://github.com/NishaSPotkule/DSALeetcode/tree/master/3834-merge-adjacent-equal-elements) |
 ## Simulation
 |  |
@@ -290,4 +292,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/NishaSPotkule/DSALeetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/NishaSPotkule/DSALeetcode/tree/master/3483-unique-3-digit-even-numbers) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/NishaSPotkule/DSALeetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
