@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0079-word-search) |
 | [0208-implement-trie-prefix-tree](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0208-implement-trie-prefix-tree) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0064-minimum-path-sum) |
 | [0877-stone-game](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0877-stone-game) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0079-word-search) |
 ## Sliding Window
 |  |
@@ -300,5 +303,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/NishaSPotkule/DSALeetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
