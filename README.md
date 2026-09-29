@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0496-next-greater-element-i) |
 | [0877-stone-game](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0973-k-closest-points-to-origin) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/NishaSPotkule/DSALeetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/NishaSPotkule/DSALeetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/NishaSPotkule/DSALeetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/NishaSPotkule/DSALeetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0501-find-mode-in-binary-search-tree) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/NishaSPotkule/DSALeetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/NishaSPotkule/DSALeetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
@@ -53,10 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0199-binary-tree-right-side-view) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/NishaSPotkule/DSALeetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 ## Union-Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0130-surrounded-regions) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/NishaSPotkule/DSALeetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 ## Matrix
 |  |
 | ------- |
@@ -64,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0130-surrounded-regions) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/NishaSPotkule/DSALeetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/NishaSPotkule/DSALeetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/NishaSPotkule/DSALeetcode/tree/master/3142-check-if-grid-satisfies-conditions) |
 ## String
