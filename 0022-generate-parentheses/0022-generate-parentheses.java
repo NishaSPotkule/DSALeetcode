@@ -1,5 +1,3 @@
-import java.util.*;
-
 class Solution {
 
     public List<String> generateParenthesis(int n) {
@@ -10,7 +8,6 @@ class Solution {
 
         return result;
     }
-
     void backtrack(List<String> result, String current,
                    int open, int close, int n) {
 
@@ -19,7 +16,6 @@ class Solution {
             return;
         }
 
-    
         if (open < n) {
             backtrack(result, current + "(", open + 1, close, n);
         }
