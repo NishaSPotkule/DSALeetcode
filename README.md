@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/NishaSPotkule/DSALeetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/NishaSPotkule/DSALeetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/NishaSPotkule/DSALeetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/NishaSPotkule/DSALeetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/NishaSPotkule/DSALeetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/NishaSPotkule/DSALeetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/NishaSPotkule/DSALeetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/NishaSPotkule/DSALeetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/NishaSPotkule/DSALeetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/NishaSPotkule/DSALeetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3834-merge-adjacent-equal-elements](https://github.com/NishaSPotkule/DSALeetcode/tree/master/3834-merge-adjacent-equal-elements) |
 ## Simulation
 |  |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/NishaSPotkule/DSALeetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/NishaSPotkule/DSALeetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/NishaSPotkule/DSALeetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Dynamic Programming
 |  |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0031-next-permutation) |
 | [0141-linked-list-cycle](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0141-linked-list-cycle) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/NishaSPotkule/DSALeetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Trie
 |  |
 | ------- |
@@ -328,4 +332,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/NishaSPotkule/DSALeetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/NishaSPotkule/DSALeetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/NishaSPotkule/DSALeetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 <!---LeetCode Topics End-->
