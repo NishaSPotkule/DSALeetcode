@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/NishaSPotkule/DSALeetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/NishaSPotkule/DSALeetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/NishaSPotkule/DSALeetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/NishaSPotkule/DSALeetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/NishaSPotkule/DSALeetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/NishaSPotkule/DSALeetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/NishaSPotkule/DSALeetcode/tree/master/3142-check-if-grid-satisfies-conditions) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/NishaSPotkule/DSALeetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2094-finding-3-digit-even-numbers](https://github.com/NishaSPotkule/DSALeetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/NishaSPotkule/DSALeetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/NishaSPotkule/DSALeetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/NishaSPotkule/DSALeetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/NishaSPotkule/DSALeetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/NishaSPotkule/DSALeetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -343,4 +345,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/NishaSPotkule/DSALeetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/NishaSPotkule/DSALeetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/NishaSPotkule/DSALeetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/NishaSPotkule/DSALeetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/NishaSPotkule/DSALeetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
