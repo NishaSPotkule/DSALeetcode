@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/NishaSPotkule/DSALeetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [2396-strictly-palindromic-number](https://github.com/NishaSPotkule/DSALeetcode/tree/master/2396-strictly-palindromic-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/NishaSPotkule/DSALeetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/NishaSPotkule/DSALeetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/NishaSPotkule/DSALeetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0141-linked-list-cycle) |
 | [0680-valid-palindrome-ii](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0680-valid-palindrome-ii) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/NishaSPotkule/DSALeetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2396-strictly-palindromic-number](https://github.com/NishaSPotkule/DSALeetcode/tree/master/2396-strictly-palindromic-number) |
 ## Trie
 |  |
 | ------- |
@@ -358,4 +360,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/NishaSPotkule/DSALeetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/NishaSPotkule/DSALeetcode/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
