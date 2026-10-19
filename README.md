@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/NishaSPotkule/DSALeetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/NishaSPotkule/DSALeetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/NishaSPotkule/DSALeetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/NishaSPotkule/DSALeetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/NishaSPotkule/DSALeetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/NishaSPotkule/DSALeetcode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/NishaSPotkule/DSALeetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/NishaSPotkule/DSALeetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/NishaSPotkule/DSALeetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/NishaSPotkule/DSALeetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/NishaSPotkule/DSALeetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0074-search-a-2d-matrix) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/NishaSPotkule/DSALeetcode/tree/master/0501-find-mode-in-binary-search-tree) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/NishaSPotkule/DSALeetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
 |  |
 | ------- |
